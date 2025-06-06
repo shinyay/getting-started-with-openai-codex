@@ -2,10 +2,6 @@
 
 ## Description
 
-This repository accompanies the "Getting Started with OpenAI Codex" guide. It
-provides a minimal Spring Boot 3.5.0 project under
-`spring-3.5.0-template/` that you can use as a base when trying out Codex.
-
 ## Demo
 
 ## Features
