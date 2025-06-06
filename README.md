@@ -13,6 +13,9 @@
 
 ## Usage
 
+Run the Spring Boot application and access `http://localhost:8080/hello` to get the
+response `Hello World`.
+
 ## Installation
 
 ## References
